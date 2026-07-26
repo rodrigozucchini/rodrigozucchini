@@ -14,7 +14,7 @@ Building clean, scalable APIs and end-to-end web products with **Node.js**, **Ne
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - 🎓 Higher Technical Degree in **Application Analysis and Software Development** (3-year program), graduated December 2025.
 - 💻 Backend-focused developer with hands-on experience across the **full product lifecycle**: data modeling, REST API design, authentication, payments, async processing, containerization and deployment.
@@ -25,7 +25,7 @@ Building clean, scalable APIs and end-to-end web products with **Node.js**, **Ne
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -58,20 +58,20 @@ Building clean, scalable APIs and end-to-end web products with **Node.js**, **Ne
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
-**🛒 Waiona — E-commerce / Delivery Platform (Freelance)**
+** Waiona — E-commerce / Delivery Platform (Freelance)**
 Full backend built with NestJS, TypeScript and PostgreSQL: modular architecture, REST API for users/products/orders/coupons, JWT + Passport authentication with refresh tokens and role-based access, Mercado Pago payment integration, Redis caching, BullMQ for async jobs, Cloudinary for media, Unit/E2E tests, Docker + CI/CD, Swagger docs and security hardening (Helmet, CORS, rate limiting). Companion admin panel built in Next.js with 10+ functional modules, server-side auth via httpOnly cookies and progressive-loading dashboards.
 
-**📚 Library Management System**
+** Library Management System**
 Led a multidisciplinary student team building a library management system: relational data model in PostgreSQL, PHP (TOBA framework, MVC pattern), catalog/loans/reservations/user management, version control in GitLab, and production deployment on an institutional server.
 
-**🔒 DMZ Architecture & Secure API Deployment**
+** DMZ Architecture & Secure API Deployment**
 Designed a DMZ/LAN network architecture with Endian Firewall and virtual machines to isolate services and control traffic; configured firewall rules, NAT and inter-zone routing; built a C#/.NET backend connected to SQL Server via ODBC, deployed on Linux and Windows Server.
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigozucchini&hide_border=true" alt="Rodrigo's GitHub streak" width="48%" />
@@ -79,7 +79,7 @@ Designed a DMZ/LAN network architecture with Endian Firewall and virtual machine
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 
 I'm actively looking for **Backend** and **Full Stack Developer** opportunities (remote or on-site).
 
