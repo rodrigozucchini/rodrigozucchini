@@ -58,7 +58,7 @@ Building clean, scalable APIs and end-to-end web products with **Node.js**, **Ne
 
 ---
 
-### Featured Projects
+### Experience
 
 **Waiona — E-commerce / Delivery Platform (Freelance)**
 Full backend built with NestJS, TypeScript and PostgreSQL: modular architecture, REST API for users/products/orders/coupons, JWT + Passport authentication with refresh tokens and role-based access, Mercado Pago payment integration, Redis caching, BullMQ for async jobs, Cloudinary for media, Unit/E2E tests, Docker + CI/CD, Swagger docs and security hardening (Helmet, CORS, rate limiting). Companion admin panel built in Next.js with 10+ functional modules, server-side auth via httpOnly cookies and progressive-loading dashboards.
