@@ -60,13 +60,13 @@ Building clean, scalable APIs and end-to-end web products with **Node.js**, **Ne
 
 ### Featured Projects
 
-** Waiona — E-commerce / Delivery Platform (Freelance)**
+**Waiona — E-commerce / Delivery Platform (Freelance)**
 Full backend built with NestJS, TypeScript and PostgreSQL: modular architecture, REST API for users/products/orders/coupons, JWT + Passport authentication with refresh tokens and role-based access, Mercado Pago payment integration, Redis caching, BullMQ for async jobs, Cloudinary for media, Unit/E2E tests, Docker + CI/CD, Swagger docs and security hardening (Helmet, CORS, rate limiting). Companion admin panel built in Next.js with 10+ functional modules, server-side auth via httpOnly cookies and progressive-loading dashboards.
 
-** Library Management System**
+**Library Management System**
 Led a multidisciplinary student team building a library management system: relational data model in PostgreSQL, PHP (TOBA framework, MVC pattern), catalog/loans/reservations/user management, version control in GitLab, and production deployment on an institutional server.
 
-** DMZ Architecture & Secure API Deployment**
+**DMZ Architecture & Secure API Deployment**
 Designed a DMZ/LAN network architecture with Endian Firewall and virtual machines to isolate services and control traffic; configured firewall rules, NAT and inter-zone routing; built a C#/.NET backend connected to SQL Server via ODBC, deployed on Linux and Windows Server.
 
 ---
