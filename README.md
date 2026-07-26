@@ -69,9 +69,6 @@ Led a multidisciplinary student team building a library management system: relat
 **🔒 DMZ Architecture & Secure API Deployment**
 Designed a DMZ/LAN network architecture with Endian Firewall and virtual machines to isolate services and control traffic; configured firewall rules, NAT and inter-zone routing; built a C#/.NET backend connected to SQL Server via ODBC, deployed on Linux and Windows Server.
 
-**🌐 CCNA Network Lab**
-Personal project where I'm learning CCNA networking concepts through hands-on implementation using NestJS and PostgreSQL.
-
 ---
 
 ### 📊 GitHub Stats
