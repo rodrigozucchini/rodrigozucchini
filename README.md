@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Rodrigo Zucchini 👋
+# Hi there, I'm Rodrigo Zucchini
 
 ### Backend / Full Stack Developer — Buenos Aires, Argentina 🇦🇷
 
