@@ -74,7 +74,7 @@ Designed a DMZ/LAN network architecture with Endian Firewall and virtual machine
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rodrigozucchini&show_icons=true&theme=default&hide_border=true" alt="Rodrigo's GitHub stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigozucchini&hide_border=true" alt="Rodrigo's GitHub streak" width="48%" />
 </div>
 
 ---
