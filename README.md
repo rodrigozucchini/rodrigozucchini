@@ -71,14 +71,6 @@ Designed a DMZ/LAN network architecture with Endian Firewall and virtual machine
 
 ---
 
-###  GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigozucchini&hide_border=true" alt="Rodrigo's GitHub streak" width="48%" />
-</div>
-
----
-
 ###  Let's Connect
 
 I'm actively looking for **Backend** and **Full Stack Developer** opportunities (remote or on-site).
